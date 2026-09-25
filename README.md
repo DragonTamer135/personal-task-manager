@@ -6,10 +6,10 @@ A simple Laravel-based Task Manager built as a mini project.
 WST21-PM-2026-SF
 
 ## Student Name
-[Your Full Name Here]
+Pendon, Mark Jerrick U.
 
 ## Course & Year
-[Your Course & Year Here]
+BSIT- 2ND YEAR
 
 ## Database Used
 SQLite
